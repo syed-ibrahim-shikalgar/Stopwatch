@@ -20,4 +20,4 @@
 
 **Time took to complete this project**: 3 Hours
 
-## [**Live-link**]() of the project
+## [**Live-link**](https://stopwatch-app-program.netlify.app/) of the project
